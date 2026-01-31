@@ -1,20 +1,29 @@
-# Hi there 👋 I'm Hassan Hamisi
+# Hassan Hamisi 👋
 
-🔐 **Cybersecurity Student | Future Cybersecurity Analyst | Ethical Hacking Enthusiast**  
+🎓 Cybersecurity Student | 🛡️ Defensive Security | 🤖 Python Automation  
+📍 Kenya
 
-- 🌱 Currently learning **Cybersecurity, Networking & Linux**  
-- 💻 Practicing with **labs, scripts, and security tools**  
-- 🎯 Goal: Become a **Professional Cybersecurity Analyst**  
-- 📚 Passionate about **ethical hacking, penetration testing, and digital forensics**  
+## About Me
+I build practical cybersecurity and system automation tools focused on
+real-world defense, system monitoring, and threat detection.
 
----
+## Focus Areas
+- Network security and traffic analysis
+- Linux system hardening
+- Python-based security automation
+- Virtual lab design and simulations
 
-### 🚀 My Focus
-- 🔹 Cybersecurity Labs & Documentation  
-- 🔹 Python Scripts for Security & Automation  
-- 🔹 Linux & Networking Projects  
+## Current Work
+- Security log analysis and alerting tools
+- Linux hardening scripts for server environments
+- Network monitoring and traffic inspection labs
 
----
+## Tech Stack
+- Python, Bash
+- Linux (Kali, Ubuntu Server)
+- Networking fundamentals
+- VirtualBox and lab environments
+
 
 ### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
